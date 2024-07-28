@@ -32,6 +32,7 @@ I'm a passionate Computer Science student graduating in 2025, with a strong inte
 ## 📈 GitHub Stats
 ![Varshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshinipaluri&show_icons=true&theme=radical)
 
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/varshini-paluri-814a89258/)
 
